@@ -56,7 +56,7 @@ include 'includes/head.php';
             <div class="card h-100">
                 <img src="assets/img/hdmi.png" class="card-img-top" alt="">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title">HDMI to USB-C</h5>
+                    <h5 class="card-title">Proyektor Epson </h5>
                     <p class="card-text small">
                         Some quick example text to build on the card title.
                     </p>
